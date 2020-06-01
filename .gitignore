@@ -1,0 +1,12 @@
+# directory with temporary files
+/tmp/
+
+# Thumbs.db and DS_store files
+Thumbs.db
+*.DS_Store
+
+#Backup and old files
+*_old
+*_backup
+
+
